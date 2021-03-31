@@ -1,6 +1,6 @@
 
 
-The Gitanjali Shop E-commerce app for Gift's and stationary Shop, this is an open source You can make pull request , and you can also use in your projects.
+The Gitanjali Shop E-commerce app for Gift's and stationary Shop, this is an open source You can make pull request , and You can also use in your projects.
 
 ## To start this project first of all You have to create one Project in firebase and then add json file in you flutter app then you can use it.
  
